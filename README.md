@@ -1,8 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjosuncom%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## About Me
-##### 💻 Who am I : Junior Frontend Developer
-##### 🎓 Education : Konkuk Univ. / Major in Smart ICT Convergence
-##### 👨‍💻 Currently Working On : The SMC Group(Intern FE Developer) 
+#### 💻 Who am I : Junior Frontend Developer
+#### 🎓 Education : Konkuk Univ. / Major in Smart ICT Convergence
+#### 👨‍💻 Currently Working On : The SMC Group(Intern FE Developer) 
 ----
 <div align="center">
 
