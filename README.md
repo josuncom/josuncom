@@ -11,18 +11,12 @@
 
 <div height="150rem">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuncom)](https://github.com/josuncom/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuncom)](https://github.com/josuncom/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuncom&layout=compact)](https://github.com/josuncom/github-readme-stats)
 
 </div>
 
 
-
-
-
-
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=josuncom)](https://solved.ac/profile/****)
- <img src="http://mazandi.herokuapp.com/api?handle=josuncom&theme=warm"/>
  
  </div>
  
