@@ -6,7 +6,7 @@
 #### About Me:
 #### 💻 Who am I : Junior Frontend Developer
 #### 🎓 Education : Konkuk Univ. / Major in Smart ICT Convergence
-#### 👨‍💻 Currently Working On : The SMC Group(Intern FE Developer) 
+#### 👨‍💻 Currently Working On : SoftSphere(Intern FE Developer) 
 ----
 <div align="center">
 
