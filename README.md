@@ -6,7 +6,7 @@
 #### About Me:
 #### 💻 Who am I : Junior Frontend Developer
 #### 🎓 Education : Konkuk Univ. / Major in Smart ICT Convergence
-#### 👨‍💻 Currently Working On : SoftSphere(Intern FE Developer) 
+#### 👨‍💻 Career : SoftSphere(Intern FE Developer, 2022.07 - 2022.12)
 ----
 <div align="center">
 
